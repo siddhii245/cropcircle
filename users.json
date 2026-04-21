@@ -1,0 +1,15 @@
+[
+  {
+    "id": "206e936d-5e8b-442c-93c4-838cce09111e",
+    "fullname": "siddhi",
+    "username": "sid",
+    "email": "siddhi@gmail.com",
+    "password": "pbkdf2:sha256:600000$MEJqabZbm6BsPpRW$b19ae9c13b68f80fa56a9e7f2f87cdbba73359fe926db4021d03b7c299486cbe",
+    "mobile": "+91987654321",
+    "organization": "farmer",
+    "profile_pic": null,
+    "bio": "",
+    "location": "",
+    "created_at": "2026-04-21 06:13:49.954522"
+  }
+]

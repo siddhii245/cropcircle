@@ -1,5 +1,20 @@
 # 🌾 CropCircle
 
+<img width="1883" height="881" alt="Screenshot 2026-04-21 120504" src="https://github.com/user-attachments/assets/db7967e1-0e36-4b7c-b99e-5703eee2a8ee" />
+
+<img width="1881" height="902" alt="Screenshot 2026-04-21 120549" src="https://github.com/user-attachments/assets/23624e95-88df-49a2-82e6-79fd217b82eb" />
+
+<img width="1905" height="887" alt="Screenshot 2026-04-21 120655" src="https://github.com/user-attachments/assets/56a2fe8b-ff2e-4617-9f25-ae63032a7f20" />
+
+<img width="1876" height="910" alt="Screenshot 2026-04-21 120821" src="https://github.com/user-attachments/assets/39e006e7-ba59-444b-b792-10a78b8d859a" />
+
+<img width="1880" height="895" alt="Screenshot 2026-04-21 120902" src="https://github.com/user-attachments/assets/76050c01-64a0-43fd-b784-220b8489f915" />
+
+
+
+
+
+
 A smart agricultural marketplace connecting Farmers, Distributors, and Retailers.
 
 ## Quick Start
